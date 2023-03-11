@@ -1,4 +1,4 @@
-import goblinImg from './../img/goblin.png'
+import goblinImg from "./../img/goblin.png";
 
 class Game {
   constructor() {
